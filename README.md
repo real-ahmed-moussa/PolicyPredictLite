@@ -1,4 +1,4 @@
-# 📌 PolicyPredict Lite: Insurance Purchase Modeling with Classical ML Algorithms
+# PolicyPredict Lite: Insurance Purchase Modeling with Classical ML Algorithms
 
 <p align="center">
   <img src="imgs/Policy Predict Lite.png" alt="PPL" width="300">
@@ -6,16 +6,19 @@
 
 > Lightweight machine learning solution leveraging classical models to predict customer purchase behavior for insurance policies, providing fast and interpretable insights to support marketing and sales strategies.
 
+---
 
 ## 📖 Overview
 - This project implements a **scikit-learn-based machine learning pipeline** to predict whether customers are likely to purchase additional insurance products.
 - The solution emphasizes **simplicity, interpretability, and efficiency**, avoiding the computational overhead of deep learning models.
 - It integrates **data preprocessing, feature selection, multiple model training, and performance evaluation**, enabling rapid experimentation and actionable business insights.
 
+---
 
 ## 🏢 Business Impact
 PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-efficient predictive modeling framework**, allowing them to **prioritize leads, optimize cross-selling strategies, and improve customer outreach** without needing deep learning infrastructure.
 
+---
 
 ## 🚀 Features
 ✅ **Multiple Model Evaluation:** Logistic Regression, Random Forest, and SVM compared within the same pipeline.  
@@ -23,6 +26,7 @@ PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-effi
 ✅ **Interpretable Insights:** Feature importance and coefficients allow business teams to understand key drivers of customer purchases.  
 ✅ **Lightweight Deployment:** No specialized infrastructure required; can be run on any machine with Python installed.  
 
+---
 
 ## ⚙️ Tech Stack
 | Technology     | Purpose                                                                           |
@@ -32,6 +36,7 @@ PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-effi
 | `pandas`       | Data cleaning, transformation, and analysis                                       |
 | `NumPy`        | Efficient numerical computations                                                  |
 
+---
 
 ## 📂 Project Structure
 <pre>
@@ -42,6 +47,8 @@ PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-effi
  ┗ README.md
 </pre>
 
+---
+
 ## 🚀 ROC Curves
 ### Logistic Regression
   ![ROC Curve](imgs/roc_reg.png)
@@ -49,12 +56,13 @@ PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-effi
 ### Random Forests
   ![ROC Curve](imgs/roc_rf.png)
 
+---
 
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/ahmedmoussa/Projects-Portfolio.git
-cd 'PolicyPredict Lite - Insurance Purchase Modeling with Classical ML Algorithms'
+git clone https://github.com/ahmedmoussa/PolicyPredictLite.git
+cd PolicyPredictLite
 </pre>
 
 2️⃣ **Create Virtual Environment & Install Requirements**
@@ -69,12 +77,17 @@ pip install -r requirements.txt
 jupyter notebook 'PolicyPredict Lite - Insurance Purchase Modeling with Classical ML Algorithms.ipynb'
 </pre>
 
+---
 
 ## 📊 Results
 - Achieved accurate predictions on customer purchase behavior using classical ML techniques.
 - Delivered **interpretable results**, highlighting key features that drive insurance policy purchases.
 - Provided a **lightweight, reusable pipeline** for small-scale deployments and fast experimentation.
 
+---
 
 ## 📝 License
 This project is shared for portfolio purposes only and may not be used for commercial purposes without permission.
+
+This project is licensed under the **MIT License**.  
+© 2025 **Dr. Ahmed Moussa**
