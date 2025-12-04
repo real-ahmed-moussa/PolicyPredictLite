@@ -43,8 +43,8 @@ PolicyPredict Lite empowers insurers with a **fast, interpretable, and cost-effi
 📦 PolicyPredict Lite - Insurance Purchase Modeling with Classical ML Algorithms
  ┣ 📜 PolicyPredict Lite - Insurance Purchase Modeling with Classical ML Algorithms.ipynb    # Main notebook (data preprocessing, model training, evaluation)
  ┣ 📂 imgs
- ┣ requirements.txt
- ┗ README.md
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
 </pre>
 
 ---
